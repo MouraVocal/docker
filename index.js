@@ -1,6 +1,7 @@
 const express = require('express');
 
 //To kill existing docker on port:
+//docker 
 //docker rm -f <dockername>
 
 const PORT = 3000;
